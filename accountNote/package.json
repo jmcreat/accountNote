@@ -1,0 +1,22 @@
+{
+  "name": "jmc",
+  "version": "1.0.0",
+  "description": "account program",
+  "main": "accountNote.js",
+  "scripts": {
+    "test": "account"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmcreat/accountNote.git"
+  },
+  "keywords": [
+    "account"
+  ],
+  "author": "jmcreat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmcreat/accountNote/issues"
+  },
+  "homepage": "https://github.com/jmcreat/accountNote#readme"
+}
